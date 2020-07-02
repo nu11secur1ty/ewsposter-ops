@@ -1,0 +1,6 @@
+configparser
+hpfeeds3
+lxml
+mysqlclient
+pyOpenSSL
+xmljson
